@@ -1,7 +1,11 @@
+
+# ERD – Inventory API
+
+```mermaid
 erDiagram
-  Categoria ||--o{ Producto : "tiene"
-  Proveedor ||--o{ InventarioMovimiento : "participa"
-  Producto  ||--o{ InventarioMovimiento : "registra"
+  Categoria ||--o{ Producto : tiene
+  Proveedor ||--o{ InventarioMovimiento : participa
+  Producto  ||--o{ InventarioMovimiento : registra
 
   Categoria {
     int Id PK
