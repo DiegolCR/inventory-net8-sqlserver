@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\inventory-net8-sqlserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98B75AE6-F25E-A0C6-8C72-9EE81C724840}|src\\Inventory\\Inventory.Api\\Inventory.Api.csproj|c:\\users\\diego\\source\\repos\\inventory-net8-sqlserver\\src\\inventory\\inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B75AE6-F25E-A0C6-8C72-9EE81C724840}|src\\Inventory\\Inventory.Api\\Inventory.Api.csproj|solutionrelative:src\\inventory\\inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AEE6414-07EA-456E-B416-F09CBB4FFA1B}|Inventory.Application\\Inventory.Application.csproj|c:\\users\\diego\\source\\repos\\inventory-net8-sqlserver\\inventory.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AEE6414-07EA-456E-B416-F09CBB4FFA1B}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC60455-F6CF-48FA-8A7F-139043412791}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|c:\\users\\diego\\source\\repos\\inventory-net8-sqlserver\\inventory.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC60455-F6CF-48FA-8A7F-139043412791}|Inventory.Infrastructure\\Inventory.Infrastructure.csproj|solutionrelative:inventory.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331666FA-BE6D-4203-9175-F3D0097272EA}|src\\Inventory.Domain\\Inventory.Domain.csproj|c:\\users\\diego\\source\\repos\\inventory-net8-sqlserver\\src\\inventory.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331666FA-BE6D-4203-9175-F3D0097272EA}|src\\Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:src\\inventory.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:296:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\inventory-net8-sqlserver\\src\\Inventory\\Inventory.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Inventory\\Inventory.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\inventory-net8-sqlserver\\src\\Inventory\\Inventory.Api\\Program.cs",
+              "RelativeToolTip": "src\\Inventory\\Inventory.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:24:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\inventory-net8-sqlserver\\Inventory.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Inventory.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\inventory-net8-sqlserver\\Inventory.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Inventory.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:16:19.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\inventory-net8-sqlserver\\Inventory.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\inventory-net8-sqlserver\\Inventory.Application\\Class1.cs",
+              "RelativeToolTip": "Inventory.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:16:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\inventory-net8-sqlserver\\src\\Inventory.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Inventory.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\inventory-net8-sqlserver\\src\\Inventory.Domain\\Class1.cs",
+              "RelativeToolTip": "src\\Inventory.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:15:50.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Infrastructure.deps.json
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Infrastructure.dll
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\bin\Debug\net8.0\Inventory.Infrastructure.pdb
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.AssemblyInfo.cs
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.sourcelink.json
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.dll
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\obj\Debug\net8.0\refint\Inventory.Infrastructure.dll
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\obj\Debug\net8.0\Inventory.Infrastructure.pdb
+C:\Users\diego\source\repos\inventory-net8-sqlserver\Inventory.Infrastructure\obj\Debug\net8.0\ref\Inventory.Infrastructure.dll
