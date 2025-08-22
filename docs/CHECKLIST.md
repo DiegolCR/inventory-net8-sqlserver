@@ -35,3 +35,24 @@ Repositorio con estructura base y solución vacía lista.
 
 **Entregable del Día 2:**
 API funcionando con Swagger y endpoint de salud disponible.
+## ✅ Día 3 - Dominio y DbContext (EF Core, sin BD aún)
+
+- [ ] Crear carpetas en `Inventory.Domain`:
+  - [ ] `Entities/`
+- [ ] Agregar entidades:
+  - [ ] `Categoria.cs`
+  - [ ] `Producto.cs`
+  - [ ] `Proveedor.cs`
+  - [ ] `InventarioMovimiento.cs`
+- [ ] Crear carpeta en `Inventory.Infrastructure`:
+  - [ ] `Persistence/`
+- [ ] Agregar `AppDbContext.cs` con configuraciones base (índice único SKU, longitudes, etc.)
+- [ ] Instalar paquetes NuGet (en **Inventory.Infrastructure**):
+  - [ ] `Microsoft.EntityFrameworkCore`
+  - [ ] `Microsoft.EntityFrameworkCore.SqlServer`
+  - [ ] `Microsoft.EntityFrameworkCore.Design`
+- [ ] Compilar la solución (Build → Rebuild Solution)
+- [ ] Sin registrar DbContext aún (la conexión a SQL Server es en Día 4)
+- [ ] Commit & Push:
+  - `feat(domain): entidades base (Producto, Categoria, Proveedor, InventarioMovimiento)`
+  - `feat(infra): AppDbContext con configuraciones iniciales (sin conexión)`
