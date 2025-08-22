@@ -9,6 +9,10 @@ Proyecto de sistema de inventario orientado a portafolio y entrevistas técnicas
 ## ✅ Estado del día 1
 - MVP definido, ERD documentado y backlog inicial en GitHub Issues.
 - Próximo paso (Día 2): crear solución .NET por capas y configurar EF Core.
+## ✅ Estado del día 2
+- Solución por capas creada en Visual Studio 2022 (Api, Domain, Application, Infrastructure).
+- API corriendo con Swagger en `https://localhost:xxxx/swagger`.
+- Endpoint `/health` disponible para pruebas rápidas.
 
 ## 🗺️ Alcance (MVP)
 - Regla: no permitir salidas con stock negativo.
